@@ -6,6 +6,16 @@ url: "http://technopathy.org" # the base hostname & protocol for your site
 twitter_username: _technopathy
 github_username:  technopathy
 
+author:
+  twitter: _technopathy
+twitter:
+  username: _technopathy
+social:
+  name: Technopathy
+  links:
+    - https://twitter.com/_technopathy
+    - https://github.com/technopathy
+
 # Build settings
 markdown: kramdown
 
@@ -13,3 +23,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+gems:
+  - jekyll-seo-tag
