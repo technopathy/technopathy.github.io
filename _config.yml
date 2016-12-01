@@ -1,8 +1,6 @@
 # Site settings
 title: "Technopathy: Holistic Technology Meets Holistic Health"
 email: info@technopathy.org
-description: >
-  Technology meets health meets quackery. Non-geek doctors need not apply.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://technopathy.org" # the base hostname & protocol for your site
 twitter_username: _technopathy
