@@ -10,7 +10,7 @@ Thousands of technical books, manuals, tutorials, and troubleshooting guides exi
 
 That's exactly what this new scholarly discipline, technopathy, is all about.
 
-Self-proclaimed "scientists" will tell you that that's nonsense. That humans and machines are not the same thing. They'll tell you that naturopathy and homeopathy are "unscientific" or "pseudoscientific", which is not even a word. Boy, are they're in for a big surprise! Someone should give them that the singularity is near.
+Self-proclaimed "scientists" will tell you that that's nonsense. That humans and machines are not the same thing. They'll tell you that naturopathy and homeopathy are "unscientific" or "pseudoscientific", which is not even a word. Boy, are they're in for a big surprise! Someone needs to remind them that everything is connected and that the singularity is near.
 
 We shall not waste time on those who do not and will not understand. Eventually, it will become clear to everyone. Or in the famous words of Mahatma Gandhi: "First they ignore you, then they laugh at you, then they fight you, then you win."
 
