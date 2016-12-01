@@ -8,3 +8,8 @@ github_username:  technopathy
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
